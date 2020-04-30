@@ -70,4 +70,4 @@ $ git push -u origin master
 
 ======
 
-belong to dev
+belong to master dev
